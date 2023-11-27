@@ -5,7 +5,9 @@
 https://store.steampowered.com/app/225840/Sven_Coop/
 
 # Requirements
-WindowsGSM >= 1.21.0
+WindowsGSM >= 1.23.1
+<a href="https://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x86.exe">Visual Studio 2010 </a>
+<a href="https://aka.ms/vs/17/release/vc_redist.x86.exe">Visual Studio 2015, 2017, 2019, and 2022</a>
 
 # Server Files
 windowsgm/servers/#(whatever_number_it_is)/serverfiles/svencoop
